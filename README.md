@@ -1,2 +1,1 @@
-# Angrybirdsboxmodel
-C-24
+# Box Class
